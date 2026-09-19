@@ -1,0 +1,38 @@
+[
+  {
+    "file": "0_100_30_0_03307.jpg",
+    "source": "https://raw.githubusercontent.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset/669259659b21a2737ca9f5e4bc81892acbe6ecd8/normal_json/test/0_100_30_0_03307.jpg",
+    "split": "test",
+    "bytes": 101726
+  },
+  {
+    "file": "0_130_50_0_09740.jpg",
+    "source": "https://raw.githubusercontent.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset/669259659b21a2737ca9f5e4bc81892acbe6ecd8/normal_json/test/0_130_50_0_09740.jpg",
+    "split": "test",
+    "bytes": 68001
+  },
+  {
+    "file": "1_100_80_0_06407.jpg",
+    "source": "https://raw.githubusercontent.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset/669259659b21a2737ca9f5e4bc81892acbe6ecd8/normal_json/test/1_100_80_0_06407.jpg",
+    "split": "test",
+    "bytes": 59459
+  },
+  {
+    "file": "1_130_40_0_07170.jpg",
+    "source": "https://raw.githubusercontent.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset/669259659b21a2737ca9f5e4bc81892acbe6ecd8/normal_json/test/1_130_40_0_07170.jpg",
+    "split": "test",
+    "bytes": 63226
+  },
+  {
+    "file": "1_60_50_0_07426.jpg",
+    "source": "https://raw.githubusercontent.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset/669259659b21a2737ca9f5e4bc81892acbe6ecd8/normal_json/test/1_60_50_0_07426.jpg",
+    "split": "test",
+    "bytes": 60099
+  },
+  {
+    "file": "1_70_60_0_07692.jpg",
+    "source": "https://raw.githubusercontent.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset/669259659b21a2737ca9f5e4bc81892acbe6ecd8/normal_json/test/1_70_60_0_07692.jpg",
+    "split": "test",
+    "bytes": 49507
+  }
+]
