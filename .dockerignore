@@ -1,0 +1,11 @@
+.git
+.local
+.venv
+.env
+storage
+frontend/node_modules
+frontend/dist
+**/__pycache__
+**/*.pyc
+RTDETR-main-code/runs
+RTDETR-main-code/pwl_rtdetr
